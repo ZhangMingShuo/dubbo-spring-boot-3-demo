@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67947db7-b3e0-45ec-b554-eb67d975628c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,8 +74,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mingshuo\IdeaProjects\dubbo-spring-boot-3-demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mingshuo\IdeaProjects\dubbo-spring-boot-3-demo\doc" />
+      <recent name="C:\Users\mingshuo\IdeaProjects\dubbo-spring-boot-3-demo\compose" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,6 +156,8 @@
       <workItem from="1746602034428" duration="108000" />
       <workItem from="1746602151130" duration="1773000" />
       <workItem from="1746603928181" duration="498000" />
+      <workItem from="1746604429094" duration="335000" />
+      <workItem from="1746605231214" duration="5995000" />
     </task>
     <servers />
   </component>
