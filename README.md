@@ -41,6 +41,7 @@ clientPort=2181
 #metricsProvider.httpPort=7000
 #metricsProvider.exportJvmInfo=true
 ```
+
 ### 启动zookeeper
 ```shell
 zkServer.cmd
@@ -54,6 +55,13 @@ dataDir=e:\\zkdata
 
 ### 重新启动zookeeper和consumer和provider
 ![](doc/Dubbo.png)
+
+### Docker 启动 zookeeper
+```shell
+docker start zookeeper
+```
+
+![img.png](doc/img.png)
 ### 参考
 [SpringBoot官网](https://spring.io/projects/spring-boot)  
 [Dubbo官网](https://cn.dubbo.apache.org/zh-cn/overview/home/)  
